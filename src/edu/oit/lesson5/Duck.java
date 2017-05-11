@@ -8,7 +8,6 @@ public class Duck implements Flyable, Swimmable{
 
     @Override
     public void swim() {
-        // TODO Auto-generated method stub
         System.out.println("swim on water");
     }
 
